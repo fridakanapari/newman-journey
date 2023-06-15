@@ -7,7 +7,7 @@ This repository contains the necessary files and configuration to run Postman te
 
 
 1. Create a Postman collection with two or three requests, create its own env
-2. Clone the repository: `git clone `
+2. Clone the repository: `git clone https://github.com/fridakanapari/newman-journey.git`
 3. Export the Postman collection using Postman's export feature. Choose the desired format (e.g., JSON).
 4. Copy the exported collection file to the cloned repository.
 5. Commit and push the collection file to the repository:
